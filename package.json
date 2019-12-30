@@ -1,12 +1,12 @@
 {
   "name": "hubiquitus-prod",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repository": {
     "type": "git",
     "url": "https://git@github.com:hubiquitus-addons/hubiquitus-prod"
   },
   "dependencies": {
-    "lodash": "4.5.*"
+    "lodash": "^4.17.15"
   },
   "main": "./index.js"
 }
